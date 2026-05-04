@@ -34,7 +34,7 @@ y está optimizada para **teléfonos y tablets Android**.
 
 ## 🔢 Estado del proyecto
 
-- **Versión actual:** v1.0
+- **Versión actual:** v1.10
 - Estado: en uso activo / desarrollo iterativo
 
 ---
