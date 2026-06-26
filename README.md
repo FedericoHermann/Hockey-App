@@ -6,6 +6,8 @@ estadísticas de partidos de hockey en tiempo real.
 Está pensada para su uso en cancha por el cuerpo técnico, funciona **offline**
 y está optimizada para **teléfonos y tablets Android**.
 
+Android 8.0 (API 26) en adelante
+
 ---
 
 ## ✅ Características
